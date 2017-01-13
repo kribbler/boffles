@@ -1,0 +1,22 @@
+== Changelog ==
+
+Plugin Name: WooCommerce Category Accordion
+
+=1.1=
+
+* Products count issue fixed.
+
+* Sort by ID, Name, Slug option added
+
+* Sort by  Ascending,  Descending option added
+
+* Level option added
+
+* Minor css changes.
+
+
+= 1.0 =
+
+*  Stable 1.0 Initial Release.
+
+
